@@ -14,7 +14,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Pedimos que seleccione una cantidad de&lt;br&gt;&amp;nbsp;numeros y los escriba." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-                    <mxGeometry x="215" y="220" width="310" height="120" as="geometry"/>
+                    <mxGeometry x="200" y="220" width="310" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="SI" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5">
                     <mxGeometry relative="1" as="geometry">
