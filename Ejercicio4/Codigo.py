@@ -1,6 +1,9 @@
 #"Tabla T"
-print("A continuacion, vamos a seleccionar los limites de la tabla T")
-print("Escriba el numero mas pequeño de la tabala que sea mayor que 0")
-a = int(input())
-print("Escriba el numero mas grande de la tabla")
-b = int(input())
+#Primero preguntamos cuantos numeros quiere ordenar
+n = int(input("¿Cuantos numeros quiere ordenar? "))
+#Creamos una lista vacia
+lista = []
+#Creamos un bucle para que el usuario introduzca los numeros
+for i in range(n):
+    lista.append(int(input("Introduzca un numero: ")))
+#Ahora crearemos el codigo para comparar los numeros de la lista y ordenarlos
