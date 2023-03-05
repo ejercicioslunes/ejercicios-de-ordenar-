@@ -15,6 +15,6 @@ def ordenar(lista):
                 aux = lista[i] #Es la solucion de la linea anterior, donde se le da otro valor a i
                 lista[i] = lista[j] 
                 lista[j] = aux
-
+ 
 ordenar(lista) #ejecutamos la funcion de ordenar lista definida a partir de la linea 10
 print("La lista ordenada es: ", lista) #y por ultimo mprimimos la lista ordenada
