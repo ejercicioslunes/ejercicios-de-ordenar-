@@ -2,7 +2,6 @@ def está_explorado(t, inicio, fin):
    
     segmentos = obtener_segmentos(t, inicio, fin)
 
-   
     for segmento in segmentos:
         if no_está_explorado(segmento):
             return False
